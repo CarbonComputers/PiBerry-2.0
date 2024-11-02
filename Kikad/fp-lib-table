@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Markings")(type "KiCad")(uri "${KIPRJMOD}/Markings")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "C:/Users/EMRE/Desktop/DevreCizimlerim/PCB_Tasarımlar/PCB_Tasarımlar/Mike_beepy_v9.0/beepy-hardware-main/KiCad/Footprints")(options "")(descr ""))
+)

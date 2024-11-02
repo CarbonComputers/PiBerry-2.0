@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector-ML")(type "Legacy")(uri "${KIPRJMOD}/Symbol Library/Connector-ML.lib")(options "")(descr ""))
+)
