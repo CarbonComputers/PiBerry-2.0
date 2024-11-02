@@ -1,6 +1,9 @@
 # PiBerry- 1.7 - 2.0
 PiBerry 1.7 - 2.0 build guide and relevant files
 
+![PIC1]([https://github.com/user-attachments/assets/5038ae93-bd02-41cb-a2df-9c7afeaa57e3](https://github.com/CarbonComputers/PiBerry-2.0/blob/main/Images/PiBerry%20v1.8%20p2.png))
+![PIC2](https://github.com/CarbonComputers/PiBerry-2.0/blob/main/Images/PiBerry%20v1.8.png)  
+
 The PiBerry 1.8 is a compact, modular cyberdeck built for Raspberry Pi Zero 2W, designed with DIY in mind. Perfect for tech enthusiasts, it combines a traditional 3.5" touchscreen, a Blackberry-style keyboard from Zitao Tech, and a flexible power solutions by PiSugar for on-the-go hacking and DIY projects.
 
 Easy to build
